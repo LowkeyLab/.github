@@ -12,3 +12,5 @@
 -->
 
 This organization is created as an effort to help indie developers build software while amortizing the CI/CD cost.
+
+Projects here are considered "low-key", meaning they are passion projects and not meant for commercial support.
